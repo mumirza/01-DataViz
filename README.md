@@ -2,7 +2,7 @@
 Data Visualization in Tableau 
 
 I created a time series analysis dashboard using the Texas housing market dataset, which
-is designed specifically for real estate investment analysts (see Appendix 1). The dashboard
+is designed specifically for real estate investment analysts. The dashboard
 provides a comprehensive view of market trends and performance indicators such as sales
 volume, median prices, and supply and demand dynamics. It also offers filtering capabilities for
 specific cities and years to enable a more in-depth analysis of market trends.
