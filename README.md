@@ -1,5 +1,6 @@
 # 01-DataViz
 Data Visualization in Tableau 
+
 I created a time series analysis dashboard using the Texas housing market dataset, which
 is designed specifically for real estate investment analysts (see Appendix 1). The dashboard
 provides a comprehensive view of market trends and performance indicators such as sales
