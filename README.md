@@ -1,4 +1,4 @@
-# 01-DataViz
+# 01 - DataViz
 Data Visualization in Tableau 
 
 I created a time series analysis dashboard using the Texas housing market dataset, which
